@@ -1,0 +1,27 @@
+/* line 3, ../sass/index.scss */
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  font-size: .32rem; }
+
+/* line 10, ../sass/index.scss */
+.mapbox {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden; }
+
+/* line 18, ../sass/index.scss */
+.pagesbox {
+  display: -webkit-box;
+  width: 10000%;
+  height: 100%;
+  -webkit-transition: -webkit-transform linear .2s; }
+
+/* line 25, ../sass/index.scss */
+.page-item {
+  width: 15rem; }
