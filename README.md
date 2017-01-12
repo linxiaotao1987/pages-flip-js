@@ -20,16 +20,16 @@ html结构：
 ```
 <div class="mapbox">
     <div class="pagesbox" id="js-pagesbox" data-flipspeed="15" data-speedcompany="rem" data-activepage="1">
-        <div class="page-item" style="background: #f1f1f1;" >
+        <div class="page-item js-page-item" style="background: #f1f1f1;" >
             1111
         </div>
-        <div class="page-item" style="background: #f4f4f4;" >
+        <div class="page-item js-page-item" style="background: #f4f4f4;" >
             2222
         </div>
-        <div class="page-item" style="background: #f8f8f8;" >
+        <div class="page-item js-page-item" style="background: #f8f8f8;" >
             3333
         </div>
-        <div class="page-item" style="background: #ffffff;" >
+        <div class="page-item js-page-item" style="background: #ffffff;" >
             4444
         </div>
     </div>
